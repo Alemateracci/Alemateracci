@@ -17,7 +17,7 @@
 - 💡 Main interest: **Programming and IT systems**
 - 🌐 I like exploring cybersecurity concepts and how systems behave  
 - 🌍 Experience connected with **ELAR-SK**
-- 🚀 I enjoy building personal programming projects and improving through practice
+- 🚀 I enjoy building personal programming projects and improving through practice  
 
 ---
 
@@ -56,8 +56,8 @@ GitHub
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Alemateracci&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alemateracci&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 ---
@@ -65,7 +65,7 @@ GitHub
 ## 📈 Contribution Activity (Green Boxes)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alemateracci&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -92,7 +92,7 @@ GitHub
 ## 📫 Contact
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Alemateracci">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
   </a>
   <a href="mailto:your.email@example.com">
