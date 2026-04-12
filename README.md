@@ -1,8 +1,7 @@
-<!-- HEADER -->
 <h1 align="center">Hi there 👋, I'm a Computer Science Student</h1>
 
 <p align="center">
-  💻 Programming & IT Enthusiast • ⚙️ Problem Solver • 🌍 Lifelong Learner
+💻 Programming & IT Enthusiast • ⚙️ Problem Solver • 🌍 Lifelong Learner
 </p>
 
 <p align="center">
@@ -15,17 +14,14 @@
 
 - 🎓 IB Diploma graduate (36/45)  
 - 🎓 BSc (Hons) Computer Science @ Coventry University Wrocław (2025–2028)  
-- 💡 My main passion is **Programming and IT systems**
-- 🧠 I enjoy learning how technology works and building things from it  
-- 🔍 I also like to explore cybersecurity topics and understand how systems can be protected and attacked  
-- 🌍 Experience connected with **ELAR-SK** supporting my growth in IT and collaboration environments  
-- ⚡ I enjoy working on personal programming projects and constantly improving my skills
+- 💡 Main interest: **Programming and IT systems**
+- 🌐 I like exploring cybersecurity concepts and how systems behave  
+- 🌍 Experience connected with **ELAR-SK**
+- 🚀 I enjoy building personal programming projects and improving through practice
 
 ---
 
-## 🧠 Tech Stack & Skills
-
-### 💻 Programming Languages
+## 💻 Programming Languages
 
 Python  
 █████████████░░░░░░░ 70%
@@ -41,7 +37,7 @@ JavaScript
 
 ---
 
-### ⚙️ Systems & Tools
+## ⚙️ Systems & Tools
 
 Linux  
 ████████████████░░░░ 80%
@@ -57,25 +53,39 @@ GitHub
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+---
+
+## 📈 Contribution Activity (Green Boxes)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
 ## 🛠️ Projects
 
-### 🗂️ Personal Repository Collection
-A growing collection of programming and IT-focused projects where I:
-
-- Build and experiment with different programming concepts  
-- Explore system-level behavior and automation ideas  
-- Improve problem-solving through hands-on coding  
-- Learn how different technologies interact together  
+- Building programming projects to improve logic and problem-solving  
+- Exploring how different systems interact  
+- Learning by creating real, hands-on applications  
+- Continuously improving coding skills through practice  
 
 ---
 
 ## 🎯 Current Focus
 
-- 💻 Improving my programming fundamentals  
-- ⚙️ Building more structured and practical projects  
-- 🌐 Learning how real-world IT systems work  
-- 🧠 Exploring cybersecurity concepts at a foundational level  
-- 🚀 Expanding into more advanced software development topics  
+- 💻 Stronger programming fundamentals  
+- ⚙️ More structured projects  
+- 🌐 Understanding IT systems deeper  
+- 🧠 Exploring cybersecurity basics  
+- 🚀 Becoming a more consistent developer  
 
 ---
 
@@ -83,18 +93,18 @@ A growing collection of programming and IT-focused projects where I:
 
 <p align="center">
   <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
   </a>
   <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/YOUR_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  ⚡ “Learning to code is learning how to think.” ⚡
+⚡ “Learning by building is the fastest way to grow.” ⚡
 </p>
