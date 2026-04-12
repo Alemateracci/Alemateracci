@@ -60,26 +60,11 @@ hobbies:
 ---
 
 ## 🧰 Some of the Tools I Have Used and Learnt
-
-<div align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45"/>
-<img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" width="70"/>
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazonaws.svg"
-     width="45"
-     style="filter: brightness(0) invert(1);"/>
-</div>
-
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,aws,azure,java,python,html,css,js,mysql,linux,kali,ubuntu,apple,windows,bash,powershell" />
+  </a>
+</p>
 
 ---
 
