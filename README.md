@@ -1,8 +1,7 @@
 <!-- 🌊 WAVE HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=180&section=header&text=Computer%20Science%20Student&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=220&section=header&text=Computer%20Science%20Student&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
 </p>
-
 <h1 align="center">Hi there 👋, I'm a Computer Science Student</h1>
 
 <p align="center">
