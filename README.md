@@ -16,17 +16,15 @@
 ## 👨‍💻 Profile
 
 ```yaml
-name: Ale Materacci
+name: Aleksander
 located_in: Poland
 current_job: Computer Science Student
 
 education:
   [
-    "IB Diploma Programme (36/45)",
+    "IB Diploma Programme",
     "BSc (Hons) Computer Science - Coventry University Wrocław (2025–2028)"
   ]
-
-company: none
 
 fields_of_interests:
   [
@@ -44,7 +42,7 @@ technical_background:
     "Web Development (HTML, CSS)",
     "Database - MySQL",
     "Version Control - Git & GitHub",
-    "IT Systems & Infrastructure Basics"
+    "IT Systems & Infrastructure Intermediate"
   ]
 
 currently_learning:
@@ -62,7 +60,7 @@ hobbies:
 ## 🧰 Some of the Tools I Have Used and Learnt
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,aws,azure,java,python,html,css,js,mysql,linux,kali,ubuntu,apple,windows,bash,powershell" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,aws,azure,java,python,html,css,js,mysql,linux,kali,ubuntu,apple,windows,bash,powershell,linkedin,instagram" />
   </a>
 </p>
 
