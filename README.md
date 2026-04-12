@@ -78,8 +78,8 @@ hobbies:
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazonaws.svg"
      width="45"
      style="filter: brightness(0) invert(1);"/>
-
 </div>
+
 
 ---
 
