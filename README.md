@@ -91,12 +91,10 @@ hobbies:
 - 🚀 Becoming a more consistent developer  
 
 ---
-
-<p align="center">
-⚡ “Learning by building is the fastest way to grow.” ⚡
-</p>
-
 <!-- 🌊 FINAL FOOTER WAVE -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7a18,50:ff3d3d,100:ffd000&height=120&section=footer"/>
+</p>
+<p align="center">
+⚡ “Learning by building is the fastest way to grow.” ⚡
 </p>
