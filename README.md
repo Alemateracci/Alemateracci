@@ -21,35 +21,28 @@
 
 ---
 
-## 💻 Programming Languages
+## 💻 Programming Languages & Tools
 
-Python  
-█████████████░░░░░░░ 70%
+<p align="center">
 
-Bash  
-██████████████░░░░░░ 75%
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50"/>
 
-PowerShell  
-████████████░░░░░░░░ 65%
-
-JavaScript  
-██████████░░░░░░░░░░ 55%
+</p>
 
 ---
 
 ## ⚙️ Systems & Tools
 
-Linux  
-████████████████░░░░ 80%
+<p align="center">
 
-Windows  
-█████████████████░░░ 85%
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
 
-Git  
-██████████████░░░░░░ 75%
-
-GitHub  
-████████████████░░░░ 80%
+</p>
 
 ---
 
@@ -62,7 +55,7 @@ GitHub
 
 ---
 
-## 📈 Contribution Activity (Green Boxes)
+## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alemateracci&theme=tokyo-night&hide_border=true" />
@@ -86,19 +79,6 @@ GitHub
 - 🌐 Understanding IT systems deeper  
 - 🧠 Exploring cybersecurity basics  
 - 🚀 Becoming a more consistent developer  
-
----
-
-## 📫 Contact
-
-<p align="center">
-  <a href="https://github.com/Alemateracci">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://www.linkedin.com/in/aleksander-eryk-matracki-4550a7392/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>
 
 ---
 
