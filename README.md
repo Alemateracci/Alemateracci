@@ -13,16 +13,49 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </p>
 
----
+## 👨‍💻 Profile
 
-## 🚀 About Me
+```yaml
+name: Ale Materacci
+located_in: Poland
+current_job: Computer Science Student
 
-- 🎓 IB Diploma graduate (36/45)  
-- 🎓 BSc (Hons) Computer Science @ Coventry University Wrocław (2025–2028)  
-- 💡 Main interest: **Programming and IT systems**
-- 🌐 I like exploring cybersecurity concepts and how systems behave  
-- 🌍 Experience connected with **ELAR-SK**
-- 🚀 I enjoy building personal programming projects and improving through practice  
+education:
+  [
+    "IB Diploma Programme (36/45)",
+    "BSc (Hons) Computer Science - Coventry University Wrocław (2025–2028)"
+  ]
+
+company: none
+
+fields_of_interests:
+  [
+    "Programming",
+    "IT Systems",
+    "Software Development",
+    "Cybersecurity Concepts",
+    "Problem Solving",
+    "Backend Development"
+  ]
+
+technical_background:
+  [
+    "Programming Projects (Python, Java, JavaScript)",
+    "Web Development (HTML, CSS)",
+    "Database - MySQL",
+    "Version Control - Git & GitHub",
+    "IT Systems & Infrastructure Basics"
+  ]
+
+currently_learning:
+  ["System Design", "Advanced Programming", "Improving Project Structure"]
+
+2026_goals:
+  ["Build more personal projects", "Improve backend skills", "Become consistent in coding"]
+
+hobbies:
+  ["Coding", "Technology Exploration", "Gaming", "Learning how systems work"]
+```
 
 ---
 
@@ -48,17 +81,11 @@
 
 </div>
 
-<!-- 🌊 INVERTED WAVE (UPSIDEDOWN STYLE) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:06b6d4,100:0ea5e9&height=120&section=footer"/>
-</p>
-
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alemateracci&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alemateracci&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
@@ -77,7 +104,7 @@
 - 💻 Stronger programming fundamentals  
 - ⚙️ More structured projects  
 - 🌐 Understanding IT systems deeper  
-- 🧠 Exploring cybersecurity basics  
+- 🧠 Exploring cybersecurity   
 - 🚀 Becoming a more consistent developer  
 
 ---
@@ -88,5 +115,5 @@
 
 <!-- 🌊 FINAL FOOTER WAVE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7a18,50:ff3d3d,100:ffd000&height=120&section=footer"/>
 </p>
