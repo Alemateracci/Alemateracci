@@ -41,7 +41,7 @@ technical_background:
   ]
 
 currently_learning:
-  ["System Design", "Advanced Programming", "Improving Project Structure"]
+  ["System Design", "Advanced Programming", "Improving Project Structure", "Exploring cybersecurity", "Developing in IT Servers and Networking"]
 
 2026_goals:
   ["Build more personal projects", "Improve backend skills", "Become consistent in coding"]
@@ -60,17 +60,10 @@ hobbies:
 </p>
 
 ---
-## 🎯 Current Focus
-
-- 💻 Stronger programming fundamentals  
-- ⚙️ More structured projects  
-- 🌐 Understanding IT systems deeper  
-- 🧠 Exploring cybersecurity   
-- 🚀 Becoming a more consistent developer
 
 ## 📊 Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alemateracci&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alemateracci&theme=github_dark&utcOffset=1)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alemateracci&theme=github_dark&utcOffset=2)
 <p align="center">
 ⚡ “Learning by building is the fastest way to grow.” ⚡
 </p>
