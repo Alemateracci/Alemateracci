@@ -69,13 +69,8 @@ hobbies:
 - 🚀 Becoming a more consistent developer
 
 ## 📊 Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alemateracci&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-<!-- 🌊 FINAL FOOTER WAVE -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7a18,50:ff3d3d,100:ffd000&height=120&section=footer"/>
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alemateracci&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alemateracci&theme=github_dark&utcOffset=8)
 <p align="center">
 ⚡ “Learning by building is the fastest way to grow.” ⚡
 </p>
