@@ -63,16 +63,18 @@ hobbies:
   </a>
 </p>
 
+## 🧰 Tools I am Learning now
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+  </a>
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b82f6,100:8b5cf6&height=5"/>
 
 ## 📊 Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alemateracci&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alemateracci&theme=github_dark&utcOffset=2)
 <p align="center">
-⚡ “Learning by building is the fastest way to grow.” ⚡
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alemateracci&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alemateracci&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+  ⚡ “Learning and building my own way because it is the fastest way to grow.” ⚡
 </p>
