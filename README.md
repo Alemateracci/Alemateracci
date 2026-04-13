@@ -8,6 +8,8 @@
 💻 Programming & IT Enthusiast • ⚙️ Problem Solver • 🌍 Lifelong Learner
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b82f6,100:8b5cf6&height=5"/>
+
 ## 👨‍💻 Profile
 
 ```yaml
@@ -50,7 +52,7 @@ hobbies:
   ["Coding", "Technology Exploration", "Gaming", "Learning how systems work"]
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b82f6,100:8b5cf6&height=5"/>
 
 ## 🧰 Some of the Tools I Have Used and Learnt
 <p align="left">
@@ -59,7 +61,7 @@ hobbies:
   </a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b82f6,100:8b5cf6&height=5"/>
 
 ## 📊 Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alemateracci&theme=github_dark)
