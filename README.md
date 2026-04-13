@@ -60,24 +60,18 @@ hobbies:
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alemateracci&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-
----
-
 ## 🎯 Current Focus
 
 - 💻 Stronger programming fundamentals  
 - ⚙️ More structured projects  
 - 🌐 Understanding IT systems deeper  
 - 🧠 Exploring cybersecurity   
-- 🚀 Becoming a more consistent developer  
+- 🚀 Becoming a more consistent developer
 
----
+## 📊 Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alemateracci&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
 <!-- 🌊 FINAL FOOTER WAVE -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7a18,50:ff3d3d,100:ffd000&height=120&section=footer"/>
