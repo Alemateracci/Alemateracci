@@ -1,14 +1,16 @@
 <!-- 🌊 WAVE HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=220&section=header&text=Computer%20Science%20Student&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:238636&height=220&section=header&text=Computer%20Science%20Student&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
 </p>
+
 <h1 align="center">Hi there 👋, I'm a Computer Science Student</h1>
 
+<!-- 🔥 TYPING ANIMATION -->
 <p align="center">
-💻 Programming & IT Enthusiast • ⚙️ Problem Solver • 🌍 Lifelong Learner
+  <img src="https://readme-typing-svg.herokuapp.com?color=1f6feb&size=22&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Programming+%26+IT+Enthusiast;Building+Projects+%26+Learning+Daily" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b82f6,100:8b5cf6&height=5"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:238636&height=5"/>
 
 ## 👨‍💻 Profile
 
@@ -68,4 +70,9 @@ hobbies:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alemateracci&theme=github_dark&utcOffset=2)
 <p align="center">
 ⚡ “Learning by building is the fastest way to grow.” ⚡
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alemateracci&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alemateracci&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
