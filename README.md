@@ -5,7 +5,7 @@
 
 <!-- 🔥 TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1f6feb&size=30&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Programming+%26+IT+Enthusiast;Building+Projects+%26+Learning+Daily" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=1f6feb&size=30&center=true&vCenter=true&width=500&lines=Made+in+Poland;Programming+%26+IT+Enthusiast;Building+%26+Learning+Daily;Was+in+Italy;Survived+IB;:)" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:238636&height=5"/>
