@@ -64,7 +64,7 @@ hobbies:
 ## 🧰 Tools I am Learning now
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,cpp" />
   </a>
 </p>
 
